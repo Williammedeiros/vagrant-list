@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-disksize",["= 0.1.3"]],["ffi",[">= 1.0.0"]],["win32-process",[">= 0"]],["vagrant-sshfs",["= 1.3.6"]]],"checksum":"0527f208438ed4b54f3ec36dde631b5279c0f7139827271409ba0ea2ace892ea","vagrant_version":"2.2.18"}
